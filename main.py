@@ -41,6 +41,6 @@ elif (input_month == 'November') and (1 <= input_day <= 30):
     print('Autumn')
 elif (input_month == 'December') and (1 <= input_day <= 20):
     print('Autumn')
-#Check ì the string and int are valid (an actual month and day)
+#Check if the string and int are valid (an actual month and day)
 else:
     print('Invalid')
