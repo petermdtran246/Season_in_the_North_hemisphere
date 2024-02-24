@@ -19,7 +19,7 @@ elif (input_month == "April") and (1 <= input_day <= 30):
     print('Spring')
 elif (input_month == "May") and (1 <= input_day <= 31):
     print('Spring')
-elif (input_month == "June") and (1 <= input_day <= 21):
+elif (input_month == "June") and (1 <= input_day <= 20):
     print('Spring')
 
 #Check the Summer season
